@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css"
 import Flow from "./Components/BiteSpeedFlow.js";
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 // import "./styles.css";
